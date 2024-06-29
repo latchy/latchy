@@ -3,6 +3,7 @@
 #### Checkout my website!  
 
 [latchy.net](https://latchy.net)
+[yakondo.com](https://www.yakondo.com)
 
 <!--
 **Latchy/latchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
